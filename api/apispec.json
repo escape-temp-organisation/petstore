@@ -15,7 +15,7 @@
     "description": "Find out more about Swagger",
     "url": "http://swagger.io"
   },
-  "servers": [{ "url": "https://petstore.tools.escape.tech/api/v3" }],
+  "servers": [{ "url": "https://petstore-dd.tools.escape.dev/api/v1" }],
   "tags": [
     {
       "name": "pet",
